@@ -1,6 +1,6 @@
-# Python Employee Account Creation
+# Python Bank App
 
-This is a Employee Account Creation using map function, list comprehensions, dictionary comprehensions and f strings.
+This is a Python Bank App created using Object Oriented Programming in Python, Abstraction using Abstract Classes and Methods, Control Flow and Conditionals, lastly,  Break and Continue keywords.
 
 ## Table of contents
 
@@ -33,6 +33,8 @@ This is a Employee Account Creation using map function, list comprehensions, dic
 3. Run the program — python main.py
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/108392678/236621176-61e76181-354d-4184-b18b-12bb5116827b.png)
+
 
 ### Links
 
