@@ -38,7 +38,7 @@ This is a Python Bank App created using Object Oriented Programming in Python, A
 
 ### Links
 
-- Github: [Code](https://github.com/marvedventures/python-bank-app)
+- Github: [Code](https://github.com/marventures/python-bank-app)
 
 ## My process
 
@@ -115,5 +115,5 @@ class Swiss(Bank):
 ## Author
 
 - Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marvedventures](https://www.linkedin.com/in/marvedventures/)
-- Twitter - [@marvedventures](https://www.twitter.com/marvedventures)
+- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
+- Twitter - [@marventures11](https://www.twitter.com/marventures11)
